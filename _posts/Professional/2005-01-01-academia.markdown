@@ -1,0 +1,71 @@
+---
+layout: default
+category: Professional
+img: phd.png
+title: LASIGE
+description: |
+  [LASIGE](https://ciencias.ulisboa.pt/en/lasige-large-scale-informatics-systems-laboratory) is a research unit of the Department of Computer Science and Engineering (DI) of the University of Lisbon (ULisboa), Faculty of Sciences (FCUL).
+  It develops activities in a number of relevant areas of computer science and engineering (CSE), including: Security and dependability (Navigators Group).
+
+  As a **Researcher** I have worked for the Navigators Group at LASIGE on Network Security and Dependibility. I have over seven years of experience in pan-european research projects, and I am the author of several international research papers, patents in network performance monitoring and search relevancy, and two books on network attack injection.
+---
+
+<div class="highlight">
+  <ul>
+    <li>PhD on Network Attack Injection at <a href="https://https://www.ulisboa.pt/">University of Lisboa</a><span class="btn-xs">(2012)</span></li>
+  </ul>
+</div>
+
+- Researcher at [MASSIF](http://www.massif-project.eu) <span class="btn-xs">(2010 – 2012)</span>
+  <input type="checkbox" class="read-more-state" id="post-academia-1" />
+  <label for="post-academia-1" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target small">
+    <ul>
+      <li>Management of Security Information and Events in Service Infrastructures (EC FP7, funding: 6M &euro;).</li>
+      <li>Used attack injection methodology with protocol reverse engineering techniques to increase the dependability of core components of the MASSIF infrastructure (Java/C++).</li>
+    </ul>
+  </div>
+
+- Researcher at [DIVERSE](http://www.di.fc.ul.pt/~nuno/PROJECTS/DIVERSE/) <span class="btn-xs">(2010 – 2012)</span>
+  <input type="checkbox" class="read-more-state" id="post-academia-2" />
+  <label for="post-academia-2" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target small">
+    <ul>
+      <li>Diversity for Intrusion Tolerant Systems (FCT, funding: 88.5k &euro;).</li>
+      <li>Designed the methodology and implemented a tool to evaluate (and solve) incompatibilities in using diversity in replicated servers (Java).</li>
+    </ul>
+  </div>
+
+- Teaching-Assistant at [Carnegie Mellon | Portugal](http://www.cmuportugal.org/) <span class="btn-xs">(2007 – 2009)</span>
+  <input type="checkbox" class="read-more-state" id="post-academia-3" />
+  <label for="post-academia-3" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target small">
+    <ul>
+    <li>Course: Distributed Systems; Instructor: Hans P. Reiser</li>
+    <li>Course: Network Security; Instructors: Adrian Perrig and Nuno Ferreira Neves</li>
+    <li>Course: Special Topics in Applied Security: Nuno Ferreira Neves</li>
+    </ul>
+  </div>
+
+- Researcher at [CRUTIAL](http://crutial.rse-web.it) <span class="btn-xs">(2006 – 2009)</span>
+  <input type="checkbox" class="read-more-state" id="post-academia-4" />
+  <label for="post-academia-4" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target small">
+    <ul>
+      <li>Critical Utility Infrastructural Resilience (EC FP6, funding: 2M &euro;)</li>
+      <li>Application of the attack injection techniques to increase the dependability of core components of the CRUTIAL infrastructure (Java/C++).</li>
+    </ul>
+  </div>
+
+- MSc on Vulnerability Assessment Through Attack Injection at [University of Lisboa](https://https://www.ulisboa.pt/)<span class="btn-xs">(2006)</span>
+
+- Junior Researcher at [AJECT](http://aject.di.fc.ul.pt) <span class="btn-xs">(2005 – 2007)</span>
+  <input type="checkbox" class="read-more-state" id="post-academia-5" />
+  <label for="post-academia-5" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target small">
+    <ul>
+      <li>Attack Injection on Software Components (FCT, funding: 48.5k €)</li>
+      <li>Development of a new methodology for the automatic discovery of security vulnerabilities in network servers (Java/C++).</li>
+    </ul>
+  </div>
+

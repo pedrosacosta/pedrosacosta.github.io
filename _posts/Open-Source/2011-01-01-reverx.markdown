@@ -1,0 +1,10 @@
+---
+layout: default
+category: Open-Source
+title: ReverX
+badges: Java
+description: |
+  A protocol reverse engineer tool written in Java. ReverX is able to derive the language (message syntax) and grammar (protocol state machine) from network traces. Since this solution only resorts to interaction samples of the protocol, it is well-suited to uncover the message formats and protocol states of closed protocols and also to automate most of the process of specifying open protocols. It currently supports text-based protocols (eg, FTP, POP, etc.) and it provides a limited support for binary-based protocols (eg, DNS).
+---
+
+Github: [https://github.com/jasantunes/reverx](https://github.com/jasantunes/reverx)

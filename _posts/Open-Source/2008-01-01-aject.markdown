@@ -1,0 +1,10 @@
+---
+layout: default
+category: Open-Source
+title: Aject
+badges: Java
+description: |
+  First attack injection tool for the automatic detection of security vulnerabilities in network servers. AJECT is capable of generating and injecting a large number of attacks that aim at causing unexpected behavior, indicative of vulnerabilities. AJECT is composed of a remote injector and a local monitor, capable of tracing the server’s execution (UNIX signals, memory, etc). (Java/C++)
+---
+
+Github: [https://github.com/jasantunes/aject](https://github.com/jasantunes/aject)

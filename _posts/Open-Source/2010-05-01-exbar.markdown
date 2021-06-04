@@ -1,0 +1,10 @@
+---
+layout: default
+category: Open-Source
+title: Exbar (Lang, K. J., 1999)
+badges: Java
+description: |
+  This is my Java implementation of the Exbar (Lang, K. J., 1999) algorithm for inferring a minimum size DFA (deterministic finite automaton) consistent with a training set. Please refer to the research paper "Faster algorithms for finding minimal consistent DFAs"for additional details.
+---
+
+Github: [https://github.com/jasantunes/aject](https://github.com/jasantunes/Exbar)

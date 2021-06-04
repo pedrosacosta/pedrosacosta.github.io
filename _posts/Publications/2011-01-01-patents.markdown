@@ -1,0 +1,11 @@
+---
+layout: default
+category: Publications
+title: Patents
+description: |
+---
+
+- [Systems Having Improved Interfaces For Search And Related Methods And Apparatus](https://www.entelo.com/wp-content/uploads/2018/04/Entelo_Insights_DS.pdf), Joao Antunes, US Patent (Provisional), 2018
+- [Monitoring Voice-Over-IP Performance Over The Internet](https://www.thousandeyes.com/press-releases/voip-monitoring-general-availability), Ricardo Oliveira and Joao Antunes, US Patent Application 15/153,642, filed May, 2016, Patent Pending.
+- [Estimating Network Capacity And Network Bandwidth Without Server Instrumentation](http://patft1.uspto.gov/netacgi/nph-Parser?patentnumber=9503384), Ricardo Oliveira and Joao Antunes, US Patent 9,503,384, filed October 2014, and issued Nov. 2016.
+

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+	{% include head.html %}
+
+	<body>
+		{% include header.html %}
+
+		{% assign sorted_categories = "About, Professional, Publications, Open-Source" | split: ", " %}
+
+		{% for cat in sorted_categories %}
+		{%  capture thecycle %}{% cycle 'content-section-a', 'content-section-b' %}{% endcapture %}
+		{%  include page_content.html side=thecycle category=cat %}
+		{% endfor %}
+
+		{% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>

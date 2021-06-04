@@ -1,0 +1,37 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://jasantunes.github.io
+title: Joao Antunes
+author: Joao Antunes
+email: jasantunes@gmail.com
+description: "I am a Director of Engineering at Entelo, a startup company located in San Francisco, CA. Before coming to the US I worked as a researcher at LaSIGE (a research lab in the the University of Lisboa (UL), Portugal, while doing my PhD in network attack injection."
+copyright: 'Copyright &copy; 2019 Joao Antunes. All Rights Reserved.'
+credits: 'Theme: <a href="https://github.com/swcool/landing-page-theme">landing-page-theme</a>.'
+lang: en-US
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+social:
+  - title: GitHub
+    icon: fa-github
+    url: https://github.com/jasantunes
+  - title: LinkedIn
+    icon: fa-linkedin
+    url: https://www.linkedin.com/in/jantunes
+  - title: CV
+    icon: fa-file-pdf-o
+    url: http://bit.ly/joao_resume
+    # original Google Docs document: https://docs.google.com/document/d/14WhT62GUSVQTd5wCfzUHfXZa-bJRmPDH4vnxX2E5dBQ
+
+google_analytics: UA-17910784-4

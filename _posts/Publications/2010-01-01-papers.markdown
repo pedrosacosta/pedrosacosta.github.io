@@ -1,0 +1,16 @@
+---
+layout: default
+category: Publications
+title: Journal and Conference Papers
+description: |
+---
+
+- [Recycling Test Cases to Detect Security Vulnerabilities](http://2012.issre.net/content/research-papers), Joao Antunes and Nuno Neves, in Proceedings of the International Symposium on Software Reliability Engineering (ISSRE), Dallas, USA, Nov. 2012.
+- [Using Behavioral Profiles to Detect Software Flaws in Network Servers](http://www.navigators.di.fc.ul.pt/wiki/Publication:Antunes11d), Joao Antunes and Nuno Neves, in Proceedings of the International Symposium on Software Reliability Engineering (ISSRE), Hiroshima, Japan, Nov. 2011.
+- [Reverse Engineering of Protocols from Network Traces](http://www.navigators.di.fc.ul.pt/wiki/Publication:Antunes11c), Joao Antunes, Nuno Neves, and Paulo Verissimo, in Proceedings of the Working Conference on Reverse Engineering (WCRE), Lero, Limerick, Ireland, Oct. 2011.
+- [DiveInto: Supporting Diversity in Intrusion-Tolerant Systems](http://www.navigators.di.fc.ul.pt/wiki/Publication:Antunes11b), Joao Antunes and Nuno Neves, in Proc. of the Symposium on Reliable Distributed Systems (SRDS), Madrid, Spain, Oct. 2011.
+- [Vulnerability Removal with Attack Injection](http://www.navigators.di.fc.ul.pt/wiki/Publication:Antunes10), Joao Antunes, Nuno Neves, Miguel Correia, Paulo Verissimo, and Rui Neves, in IEEE Transactions on Software Engineering, Special issue on Evaluation and Improvement of Software Dependability, May-June 2010.
+- [Building an Automaton Towards Protocol Reverse Engineering](http://www.navigators.di.fc.ul.pt/wiki/Publication:Antunes09), Joao Antunes, Nuno Ferreira Neves, in Proceedings of the Simpósio de Informática Inforum, Lisbon, Portugal, Sep. 2009.
+- [Detection and Prediction of Resource-Exhaustion Vulnerabilities](http://www.navigators.di.fc.ul.pt/wiki/Publication:Joao-antunes2008detection-and-219), Joao Antunes, Nuno Ferreira Neves, Paulo Veríssimo, in Proceedings of the International Symposium on Software Reliability Engineering (ISSRE), Seattle, USA, Nov. 2008.
+- [Using Attack Injection to Discover New Vulnerabilities](http://www.navigators.di.fc.ul.pt/wiki/Publication:Nuno-ferreira-neves2006using-attack-179), Nuno Ferreira Neves, Joao Antunes, Miguel Correia, Paulo Veríssimo, Rui Neves, in Proceedings of the International Conference on Dependable Systems and Networks (DSN), Philadelphia, USA, June 2006.
+
