@@ -1,7 +1,7 @@
 ---
 layout: default
 category: About
-title: Joao Antunes
+title: Pedro Sá da Costa
 description: |
 ---
 
@@ -11,10 +11,10 @@ description: |
 {% assign arrived_ts = "February 14, 2012" | date: "%s" %}
 {% assign years_since_arriving = now_ts | minus: arrived_ts | divided_by: year_secs %}
 
-![Joao Antunes](img/me.jpg){:class="img-responsive img-circle"}
+![Pedro Sá da Costa](img/me.jpg){:class="img-responsive img-circle"}
 
-I’m an Engineering Leader with 8+ YoE in professional software development and 2+ YoE of managing teams of software and infrastructure engineers as well as data scientists. I previously held the title of Head of Engineering of a Series C startup, where at one point I was managing up to 20 engineers, including ICs and managers.
+Pedro Costa is a Senior Researcher in the IoT Innovation Lab and IoT Systems and Software Research Group. He has solid experience in industry and academia for 16+ YoE, attested by contributing to the design of several industrial highly-distributed, fault-tolerant and secure telecommunication systems (at Nokia and Nokia Siemens Networks) and breakthrough research projects.
 
-I have a track record of building core customer-facing products, operating high-scale distributed systems, and developing high-performing teams.
+He has strong background in backend and distributed systems, including a Ph.D. in Computer Science, and he has published several scientific articles in relevant conferences and journals, and won two best paper awards and an award of merit of recognition of the work developed.
 
-I have a strong background in backend and distributed systems, including a PhD in Network Security and 7+ YoE in pan-european research projects, and I am the author of several international research papers, patents in network performance monitoring and search relevancy, and two books on network attack injection.
+His interests are in the area of systems software, dependability in distributed systems in the context of different applications like cloud/edge computing, mobile systems and services, Internet of Things (IoT), networking, fault-tolerance, information and communication systems (ICT), and Internet technologies.
