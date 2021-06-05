@@ -1,0 +1,62 @@
+---
+layout: default
+img: nokia.jpg
+category: Professional
+title: Nokia
+description: |
+  [Nokia](http://www.nokia.com/) is a Finnish multinational telecommunications, information technology, and consumer electronics company, founded in 1865.
+
+  I was part of the core backend/R&D team that was responsible for the development and support of several telecommunication solutions.
+---
+
+- Software Engineer <span class="btn-xs">(2017 – 2019)</span>
+  <input type="checkbox" class="read-more-state" id="post-nokia-1" />
+  <label for="post-nokia-1" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target">
+    <ul>
+      <li>Development of a solution that performs statistic measurements in the telecommunication network to assess performance and fault-detection. This solution uses several big data tools like Apache Kafka that works as a message broker so that Apache Spark consumes data in realtime and store the information in HDFS using Apache Flume.</li>
+      <li>I was responsible for the development of new components and software maintenance.</li>
+      <li>Establish, maintain, and adhere to software development standards, perform peer code reviews and mentor other engineers on the team.</li>
+      <li>Technologies: Apache Kafka, Spark, Flume, Docker, Kubernetes, Helm.</li>
+      <li>Team Member.</li>
+    </ul>
+  </div>
+  
+
+- Software Engineer <span class="btn-xs">(2009 – 2010)</span>
+  <input type="checkbox" class="read-more-state" id="post-nokia-2" />
+  <label for="post-nokia-2" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target">
+    <ul>
+      <li>The Business Support System (BSS) product offers telecommunication companies a service to create and recharge temporary vouchers for mobile phones and landlines.</li>
+      <li>I was responsible for the development of new components and software maintenance.</li>
+      <li>Technologies: JBoss, J2EE, Oracle</li>
+      <li>Team Member.</li>
+    </ul>
+  </div>
+  
+  
+- Software Engineer <span class="btn-xs">(2009 – 2010)</span>
+  <input type="checkbox" class="read-more-state" id="post-nokia-3" />
+  <label for="post-nokia-3" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target">
+    <ul>
+      <li>Over-the-top media service comprises a client Set-Top Box (STB), server components, and a broker.</li>
+      <li>I was responsible for the development of new components and software maintenance.</li>
+      <li>Technologies: Orion, JBoss, J2EE, Oracle. Team Member.</li>
+      <li>Team Member.</li>
+    </ul>
+  </div>
+  
+  
+- Software Engineer <span class="btn-xs">(2006 – 2008)</span>
+  <input type="checkbox" class="read-more-state" id="post-nokia-4" />
+  <label for="post-nokia-4" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target">
+    <ul>
+      <li>The Mobile TV service is a framework that provides TV channels, Video-on-demand content using a mobile device. Some features offered a secure and authenticated service to the client. This service was fault-tolerant and delivered a load balance to process client requests quickly.</li>
+      <li>I designed and developed new components, and I was also responsible for software maintenance.</li>
+      <li>Technologies: SOAP, RMI, J2EE, Oracle.</li>
+      <li>Team Member.</li>
+    </ul>
+  </div>

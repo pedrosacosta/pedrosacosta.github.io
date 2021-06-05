@@ -1,0 +1,10 @@
+---
+layout: default
+category: Professional
+img: phd.png
+title: IoT Innovation Lab
+description: |
+  [IoT Innovation Lab](https://www.hslu.ch/en/lucerne-school-of-information-technology/research/systems-and-software/internet-of-things/) is a research unit that focuses on the development of IoT systems and software, programmable IoT platforms, next generation IoT systems architectures and novel information technology services to shape the emerging trends in IoT systems, infrastructure and services sectors.
+  
+  As a **Senior Researcher**, I work on highly distributed systems solutions.
+---

@@ -1,0 +1,39 @@
+---
+layout: default
+category: Professional
+img: phd.png
+title: LASIGE
+description: |
+  [LASIGE](https://ciencias.ulisboa.pt/en/lasige-large-scale-informatics-systems-laboratory) is a research unit of the Department of Computer Science and Engineering (DI) of the University of Lisbon (ULisboa), Faculty of Sciences (FCUL).
+  It develops activities in a number of relevant areas of computer science and engineering (CSE), including: Security and dependability (Navigators Group).
+
+  As a **Researcher** I have worked for the Navigators Group at LASIGE on Fault Tolerance and Dependibility. I have 7+ YoE in national an european research projects, and I am the author of several international research papers.
+---
+
+<div class="highlight">
+  <ul>
+    <li>Ph.D. on Dependable MapReduce in a Cloud-of-Clouds at <a href="https://https://www.ulisboa.pt/">University of Lisboa</a><span class="btn-xs">(2017)</span></li>
+  </ul>
+</div>
+
+- Researcher at SUPERCLOUD <span class="btn-xs">(2015 – 2019)</span>
+  <input type="checkbox" class="read-more-state" id="post-academia-1" />
+  <label for="post-academia-1" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target small">
+    <ul>
+      <li>New security and dependability infrastructure management paradigms for cloud-of-clouds (EC FP7, funding: 6.8M &euro;).</li>
+      <li>The project SUPERCLOUD – partially supported Ph.D. studies. I have developed solutions that worked on top of this framework.</li>
+    </ul>
+  </div>
+
+- Ms.C on Hadoop MapReduce tolerante a faltas bizantivas at <a href="https://https://www.ulisboa.pt/">University of Lisboa</a><span class="btn-xs">(2013)</span>
+  
+- Researcher at TCLOUDS <span class="btn-xs">(2010 – 2013)</span>
+  <input type="checkbox" class="read-more-state" id="post-academia-2" />
+  <label for="post-academia-2" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target small">
+    <ul>
+      <li>Creation of a ICT infrastructure that allows virtualized computing, network, and storage resources over the Internet to provide scalability and cost-efficiency. (FCT, funding: 7.5M &euro;).</li>
+      <li>The project TCLOUDS – partially supported Ms.C. studies. I have developed solutions that worked on top of this framework.</li>
+    </ul>
+  </div>
