@@ -36,7 +36,7 @@ description: |
   </div>
   
   
-- Software Engineer <span class="btn-xs">(2009 – 2010)</span>
+- Software Engineer <span class="btn-xs">(2008 – 2009)</span>
   <input type="checkbox" class="read-more-state" id="post-nokia-3" />
   <label for="post-nokia-3" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
