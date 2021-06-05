@@ -16,6 +16,6 @@ Pedro Costa is a [Senior Researcher](https://www.hslu.ch/en/lucerne-university-o
 
 He has strong background in backend and distributed systems, including a Ph.D. in Computer Science at [University of Lisbon](https://ciencias.ulisboa.pt/en/informatics), and he has published several scientific articles in relevant conferences and journals, and won two best paper awards and an award of merit of recognition of the work developed.
 
-*****Research Interests**
+<h4>Research Interests</h4>
 
 His interests are in the area of systems software, dependability in distributed systems in the context of different applications like cloud/edge computing, mobile systems and services, Internet of Things (IoT), networking, fault-tolerance, information and communication systems (ICT), and Internet technologies.
