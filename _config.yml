@@ -23,9 +23,9 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 social:
-  - title: GitHub
-    icon: fa-github
-    url: https://github.com/xeon123
+  # - title: GitHub
+  #   icon: fa-github
+  #   url: https://github.com/xeon123
   - title: LinkedIn
     icon: fa-linkedin
     url: https://www.linkedin.com/in/pedrosacosta
