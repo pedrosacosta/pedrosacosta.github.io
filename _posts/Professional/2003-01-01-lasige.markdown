@@ -26,7 +26,7 @@ description: |
     </ul>
   </div>
 
-- Ms.C on Hadoop MapReduce tolerante a faltas bizantivas at <a href="https://https://www.ulisboa.pt/">University of Lisboa</a><span class="btn-xs">(2013)</span>
+- Ms.C on Hadoop MapReduce tolerante a faltas bizantinas at <a href="https://https://www.ulisboa.pt/">University of Lisboa</a><span class="btn-xs">(2013)</span>
   
 - Researcher at TCLOUDS <span class="btn-xs">(2010 – 2013)</span>
   <input type="checkbox" class="read-more-state" id="post-academia-2" />
