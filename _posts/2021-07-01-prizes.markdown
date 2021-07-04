@@ -12,8 +12,8 @@ description: |
 
 
 - Prizes <span class="btn-xs"></span>
-  <input type="checkbox" class="read-more-state" id="post-prizes-2" />
-  <label for="post-prizes-2" class="btn-link btn-xs read-more-trigger"></label>
+  <input type="checkbox" class="read-more-state" id="post-prizes" />
+  <label for="post-prizes" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
     <ul>
         <li>Award of Excellence in Recognition of Merit of the Ph.D. by MaxData</li>
@@ -24,8 +24,8 @@ description: |
 
 
 - Grants <span class="btn-xs"></span>
-  <input type="checkbox" class="read-more-state" id="post-prizes-2" />
-  <label for="post-prizes-2" class="btn-link btn-xs read-more-trigger"></label>
+  <input type="checkbox" class="read-more-state" id="post-grants" />
+  <label for="post-grants" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
     <ul>
         <li>Individual Call to Scientific Employment Stimulus</li>
