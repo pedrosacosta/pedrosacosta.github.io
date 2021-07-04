@@ -16,10 +16,7 @@ description: |
       <ul>
         <li>Design and development of a web portal for public transportation.</li>
         <li>This solution used a workflow to devise the steps to input data, and was deployed in the JBoss Application Server.</li>
-        <li>The data layer was implemented with Hibernate, and the data is stored in the MySQL database.</li>
-        <li>I was responsible for the development of the solution.</li>
         <li>Technologies: JBoss, Hibernate, MySQL.</li>
-        <li>Team Member.</li>
       </ul>
     </div>
   </li>

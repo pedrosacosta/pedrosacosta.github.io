@@ -15,10 +15,7 @@ description: |
   <div class="read-more-target">
     <ul>
       <li>Development of a solution that performs statistic measurements in the telecommunication network to assess performance and fault-detection. This solution uses several big data tools like Apache Kafka that works as a message broker so that Apache Spark consumes data in realtime and store the information in HDFS using Apache Flume.</li>
-      <li>I was responsible for the development of new components and software maintenance.</li>
-      <li>Establish, maintain, and adhere to software development standards, perform peer code reviews and mentor other engineers on the team.</li>
       <li>Technologies: Apache Kafka, Spark, Flume, Docker, Kubernetes, Helm.</li>
-      <li>Team Member.</li>
     </ul>
   </div>
   
@@ -29,9 +26,7 @@ description: |
   <div class="read-more-target">
     <ul>
       <li>The Business Support System (BSS) product offers telecommunication companies a service to create and recharge temporary vouchers for mobile phones and landlines.</li>
-      <li>I was responsible for the development of new components and software maintenance.</li>
       <li>Technologies: JBoss, J2EE, Oracle</li>
-      <li>Team Member.</li>
     </ul>
   </div>
   
@@ -42,9 +37,7 @@ description: |
   <div class="read-more-target">
     <ul>
       <li>Over-the-top media service comprises a client Set-Top Box (STB), server components, and a broker.</li>
-      <li>I was responsible for the development of new components and software maintenance.</li>
       <li>Technologies: Orion, JBoss, J2EE, Oracle. Team Member.</li>
-      <li>Team Member.</li>
     </ul>
   </div>
   
@@ -55,8 +48,6 @@ description: |
   <div class="read-more-target">
     <ul>
       <li>The Mobile TV service is a framework that provides TV channels, Video-on-demand content using a mobile device. Some features offered a secure and authenticated service to the client. This service was fault-tolerant and delivered a load balance to process client requests quickly.</li>
-      <li>I designed and developed new components, and I was also responsible for software maintenance.</li>
       <li>Technologies: SOAP, RMI, J2EE, Oracle.</li>
-      <li>Team Member.</li>
     </ul>
   </div>
