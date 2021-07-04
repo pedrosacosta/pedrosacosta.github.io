@@ -10,7 +10,6 @@ description: |
 {% assign arrived_ts = "February 14, 2012" | date: "%s" %}
 {% assign years_since_arriving = now_ts | minus: arrived_ts | divided_by: year_secs %}
 
-
 - Prizes <span class="btn-xs"></span>
   <input type="checkbox" class="read-more-state" id="post-prizes" />
   <label for="post-prizes" class="btn-link btn-xs read-more-trigger"></label>
