@@ -12,8 +12,8 @@ description: |
 
 
 - Prizes <span class="btn-xs">(2017)</span>
-  <input type="checkbox" class="read-more-state" id="post-nokia-2" />
-  <label for="post-nokia-2" class="btn-link btn-xs read-more-trigger"></label>
+  <input type="checkbox" class="read-more-state" id="post-prizes-2" />
+  <label for="post-prizes-2" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
     <ul>
         <li>Award of Excellence in Recognition of Merit of the Ph.D. by MaxData</li>
