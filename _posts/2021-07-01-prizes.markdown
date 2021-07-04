@@ -1,0 +1,23 @@
+---
+layout: default
+category: Prizes
+title: Pedro Sá da Costa
+description: |
+---
+
+{% assign year_secs = 31536000 %}
+{% assign now_ts = "now" | date: "%s" %}
+{% assign arrived_ts = "February 14, 2012" | date: "%s" %}
+{% assign years_since_arriving = now_ts | minus: arrived_ts | divided_by: year_secs %}
+
+![Pedro Sá da Costa](img/me.jpg){:class="img-responsive img-circle"}
+
+- Software Engineer <span class="btn-xs">(2017 – 2019)</span>
+  <input type="checkbox" class="read-more-state" id="post-prize-1" />
+  <label for="post-prize-1" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target">
+    <ul>
+      <li>Prize 1</li>
+      <li>Prize 2</li>
+    </ul>
+  </div>
