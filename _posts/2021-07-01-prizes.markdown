@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Prizes
-title: Prizes and Awards
+title: 
 description: |
 ---
 
@@ -11,7 +11,7 @@ description: |
 {% assign years_since_arriving = now_ts | minus: arrived_ts | divided_by: year_secs %}
 
 
-- Prizes <span class="btn-xs"></span>
+- Prizes <span class="btn-xs">(2017)</span>
   <input type="checkbox" class="read-more-state" id="post-nokia-2" />
   <label for="post-nokia-2" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
