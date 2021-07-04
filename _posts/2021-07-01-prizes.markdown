@@ -1,6 +1,6 @@
 ---
 layout: default
-category: Prizes
+category: Awards
 title: 
 description: |
 ---
