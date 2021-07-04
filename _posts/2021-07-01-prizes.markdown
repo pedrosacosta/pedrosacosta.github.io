@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Awards
-title: 
+title: Awards
 description: |
 ---
 
