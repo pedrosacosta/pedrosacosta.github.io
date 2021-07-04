@@ -10,12 +10,5 @@ description: |
 {% assign arrived_ts = "February 14, 2012" | date: "%s" %}
 {% assign years_since_arriving = now_ts | minus: arrived_ts | divided_by: year_secs %}
 
-- Prize 1 <span class="btn-xs">(2017)</span>
-- Award of Excellence in Recognition of Merit of the Ph.D. by MaxData</span>
-  <input type="checkbox" class="read-more-state" id="post-prize-1" />
-  <label for="post-prize-1" class="btn-link btn-xs read-more-trigger"></label>
-  <div class="read-more-target">
-    <ul>
-        <li>Award of Excellence in Recognition of Merit of the Ph.D. by MaxData</li>
-    </ul>
-  </div>
+- Award of Excellence in Recognition of Merit of the Ph.D. by MaxData (2017)
+- Award of Excellence in Recognition of Merit of the Ph.D. by MaxData (2017)
