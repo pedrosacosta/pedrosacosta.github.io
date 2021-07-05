@@ -1,7 +1,7 @@
 ---
 layout: default
 category: About
-title: 
+title: Pedro Sá da Costa
 description: |
 ---
 
