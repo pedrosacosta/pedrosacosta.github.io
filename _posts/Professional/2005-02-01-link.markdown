@@ -4,7 +4,7 @@ category: Professional
 img: link.jpg
 title: Link Consulting
 description: |
-  [Link Consulting](https://www.linkconsulting.com/) is a technology based group in Portugal that develops its activities in various areas of information technology. Technology activity areas which include systems integration, consulting in information technology and portals, fleet management, positioning solutions, mobile solutions and quality audit, with most of the customers coming from major Portuguese companies, with particular emphasis on the main telecom operators.
+  [Link Consulting](https://www.linkconsulting.com/) is a technology-based group in Portugal that develops its activities in various areas of information technology. Technology activity areas include systems integration, information technology and portals, fleet management, positioning solutions, mobile solutions, and quality audits. Most of the customers come from major Portuguese companies, with particular emphasis on the leading telecom operators.
 ---
 
 <div class="highlight">

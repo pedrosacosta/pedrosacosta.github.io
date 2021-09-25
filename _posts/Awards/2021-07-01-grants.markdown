@@ -10,8 +10,7 @@ description: |
 {% assign arrived_ts = "February 14, 2012" | date: "%s" %}
 {% assign years_since_arriving = now_ts | minus: arrived_ts | divided_by: year_secs %}
 
-
-- Individual Call to Scientific Employment Stimuluas
+- Individual Call to Scientific Employment Stimulus
 - Scholarship awarded by European Commission FP7 ICT-257243 through TClouds project
 - Scholarship awarded by Fundação para a Ciência e Tecnologia (FCT) and EGIDE (Programme PESSOA) through FTH-Grid project
 - Scholarship awarded by Fundação para a Ciência e Tecnologia (FCT) through project CloudFIT, Carnegie Mellon Portugal Program and INESC-ID multi-annual PIDDAC Program funds
