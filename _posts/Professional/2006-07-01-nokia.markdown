@@ -6,7 +6,7 @@ title: Nokia
 description: |
   [Nokia](http://www.nokia.com/) is a Finnish multinational telecommunications, information technology, and consumer electronics company founded in 1865.
 
-  I was part of the core backend/R&D team that was responsible for the development and support of several telecommunication solutions.
+  I was part of the core backend/R&D team responsible for the development and support of several telecommunication solutions.
 ---
 
 - Software Engineer <span class="btn-xs">(2017 – 2019)</span>
