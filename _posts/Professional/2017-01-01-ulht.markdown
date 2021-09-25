@@ -6,5 +6,5 @@ title: Copelabs
 description: |
   [Copelabs](https://www.hslu.ch/en/lucerne-school-of-information-technology/research/systems-and-software/internet-of-things/) is a research unit of Universidade Lusófona de Humanidades e Tecnologias, originally established as a new unit in Portugal.
 
-  As a **[Senior Researcher](https://www.hslu.ch/en/lucerne-university-of-applied-sciences-and-arts/about-us/people-finder/profile/?pid=4666)**, I work on highly distributed systems solutions.
+  As a **Researcher**, I have work in dependability in IoT systems.
 ---
