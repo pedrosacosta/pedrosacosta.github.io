@@ -8,8 +8,8 @@ description: |
 ---
 
 - Software Developer<span class="btn-xs">(2005-2006)</span>
-  <input type="checkbox" class="read-more-state" id="post-link-1" />
-  <label for="post-link-1" class="btn-link btn-xs read-more-trigger"></label>
+  <input type="checkbox" class="read-more-state" id="post-link-link-1" />
+  <label for="post-link-link-1" class="btn-link btn-xs read-more-trigger"></label>
   <div class="read-more-target">
     <ul>
       <li>Design and development of a web portal for public transportation.</li>
