@@ -7,18 +7,13 @@ description: |
   [Link Consulting](https://www.linkconsulting.com/) is a technology-based group in Portugal that develops its activities in various areas of information technology. Technology activity areas include systems integration, information technology and portals, fleet management, positioning solutions, mobile solutions, and quality audits. Most of the customers come from major Portuguese companies, with particular emphasis on the leading telecom operators.
 ---
 
-<div class="highlight">
-  <ul>
-    <li>Software Developer<span class="btn-xs">(2005-2006)</span>
-    <input type="checkbox" class="read-more-state" id="post-link-1" />
-    <label for="post-link-1" class="btn-link btn-xs read-more-trigger"></label>
-    <div class="read-more-target">
-      <ul>
-        <li>Design and development of a web portal for public transportation.</li>
-        <li>This solution used a workflow to devise the steps to input data, and was deployed in the JBoss Application Server.</li>
-        <li>Technologies: JBoss, Hibernate, MySQL.</li>
-      </ul>
-    </div>
-  </li>
-  </ul>
-</div>
+- Software Developer<span class="btn-xs">(2005-2006)</span>
+  <input type="checkbox" class="read-more-state" id="post-link-1" />
+  <label for="post-link-1" class="btn-link btn-xs read-more-trigger"></label>
+  <div class="read-more-target">
+    <ul>
+      <li>Design and development of a web portal for public transportation.</li>
+      <li>This solution used a workflow to devise the steps to input data, and was deployed in the JBoss Application Server.</li>
+      <li>Technologies: JBoss, Hibernate, MySQL.</li>
+    </ul>
+  </div>
