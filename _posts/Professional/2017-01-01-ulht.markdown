@@ -24,7 +24,7 @@ description: |
     <div class="read-more-target">
       <ul>
         <li>Created the syllabus for Web Programming Course</li>
-        <li>Taught Programming Fundamentals, Distributed System, Computer Networks, and Web Programming.</li>
+        <li>Lecturer in the following courses: Programming Fundamentals, Distributed System, Computer Networks, and Web Programming.</li>
       </ul>
     </div>
   </li>
