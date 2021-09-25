@@ -4,7 +4,7 @@ img: nokia.jpg
 category: Professional
 title: Nokia
 description: |
-  [Nokia](http://www.nokia.com/) is a Finnish multinational telecommunications, information technology, and consumer electronics company, founded in 1865.
+  [Nokia](http://www.nokia.com/) is a Finnish multinational telecommunications, information technology, and consumer electronics company founded in 1865.
 
   I was part of the core backend/R&D team that was responsible for the development and support of several telecommunication solutions.
 ---
@@ -19,7 +19,6 @@ description: |
     </ul>
   </div>
   
-
 - Software Engineer <span class="btn-xs">(2009 – 2010)</span>
   <input type="checkbox" class="read-more-state" id="post-nokia-2" />
   <label for="post-nokia-2" class="btn-link btn-xs read-more-trigger"></label>
