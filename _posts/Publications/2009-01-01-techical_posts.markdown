@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Publications
-title: Blog Posts
+title: Posts
 description: |
 ---
 
