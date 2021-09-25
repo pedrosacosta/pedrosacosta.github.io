@@ -5,9 +5,9 @@ img: lasige.jpg
 title: LASIGE
 description: |
   [LASIGE](https://ciencias.ulisboa.pt/en/lasige-large-scale-informatics-systems-laboratory) is a research unit of the Department of Computer Science and Engineering (DI) of the University of Lisbon (ULisboa), Faculty of Sciences (FCUL).
-  It develops activities in a number of relevant areas of computer science and engineering (CSE), including Security and dependability (Navigators Group).
+  It develops activities in several relevant areas of computer science and engineering (CSE), including Security and dependability (Navigators Group).
 
-  As a **Researcher** I have worked for the Navigators Group at LASIGE on Fault Tolerance and Dependability. I have 7+ YoE in national and European research projects, and I am the author of several international research papers.
+  As a **Researcher** I have worked for the Navigators Group at LASIGE on Fault Tolerance and Dependability. I have 7+ YoE in national and European research projects, and I author several international research papers.
 ---
 
 <div class="highlight">
