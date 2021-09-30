@@ -5,6 +5,6 @@ title: Thesis
 description: |
 ---
 
-- [Hadoop mapreduce tolerante a faltas bizantinas](https://repositorio.ul.pt/bitstream/10451/8695/1/ulfc104210_tm_Pedro_Costa.pdf), Pedro Costa, in  Master Thesis, 2011.
 - Byzantine fault-tolerant MapReduce in a Cloud-of-Clouds, Pedro Costa,  in Ph.D. Thesis, 2017.
+- [Hadoop mapreduce tolerante a faltas bizantinas](https://repositorio.ul.pt/bitstream/10451/8695/1/ulfc104210_tm_Pedro_Costa.pdf), Pedro Costa, in  Master Thesis, 2011.
 
