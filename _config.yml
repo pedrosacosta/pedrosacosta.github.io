@@ -32,8 +32,11 @@ social:
   - title: ORCID
     icon: fa-orcid
     url: https://orcid.org/0000-0003-0780-8216
-    #- title: CV
-    #icon: fa-file-pdf-o
+  - title: Blog
+    icon: fa-blogger-b
+    url: https://computersciencetalks.blogspot.com
+  - title: CV
+    icon: fa-file-pdf-o
     #url: http://bit.ly/XXXX
     # original Google Docs document: https://docs.google.com/document/d/14WhT62GUSVQTd5wCfzUHfXZa-bJRmPDH4vnxX2E5dBQ
 
