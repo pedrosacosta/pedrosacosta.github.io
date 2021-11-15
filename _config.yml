@@ -32,6 +32,9 @@ social:
   - title: ORCID
     icon: ai-orcid
     url: https://orcid.org/0000-0003-0780-8216
+  - title: Google Scholar
+    icon: fa-google
+    url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pedro+Costa&btnG=
   - title: Blog
     icon: ai-ceur
     url: https://computersciencetalks.blogspot.com
