@@ -1,7 +1,7 @@
 ---
 layout: default
 category: About
-title: Pedro Costa
+title: Dr. Pedro Costa
 description: |
 ---
 
