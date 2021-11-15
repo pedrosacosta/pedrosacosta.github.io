@@ -26,6 +26,10 @@ social:
   # - title: GitHub
   #   icon: fa-github
   #   url: https://github.com/xeon123
+  - title: CV
+    icon: fa-file-pdf-o
+    url: https://www.dropbox.com/s/po3pj7g0x1hls6l/CURRICULUM_VITAE-Pedro_Costa-public-version.pdf?dl=0
+    # original Google Docs document: https://docs.google.com/document/d/14WhT62GUSVQTd5wCfzUHfXZa-bJRmPDH4vnxX2E5dBQ
   - title: LinkedIn
     icon: fa-linkedin
     url: https://www.linkedin.com/in/pedrosacosta
@@ -38,9 +42,5 @@ social:
   - title: Blog
     icon: ai-ceur
     url: https://computersciencetalks.blogspot.com
-  - title: CV
-    icon: fa-file-pdf-o
-    url: https://www.dropbox.com/s/po3pj7g0x1hls6l/CURRICULUM_VITAE-Pedro_Costa-public-version.pdf?dl=0
-    # original Google Docs document: https://docs.google.com/document/d/14WhT62GUSVQTd5wCfzUHfXZa-bJRmPDH4vnxX2E5dBQ
 
 google_analytics: G-CCEMLPTW4V
