@@ -30,10 +30,10 @@ social:
     icon: fa-linkedin
     url: https://www.linkedin.com/in/pedrosacosta
   - title: ORCID
-    icon: ai-orcid
+    icon: ai ai-orcid
     url: https://orcid.org/0000-0003-0780-8216
   - title: Blog
-    icon: fa-blogger-b
+    icon: ai ai-blogger-b
     url: https://computersciencetalks.blogspot.com
   - title: CV
     icon: fa-file-pdf-o
