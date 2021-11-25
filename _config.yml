@@ -40,7 +40,7 @@ social:
     icon: fa-google
     url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pedro+Costa&btnG=
   - title: Blog
-    icon: fab fa-blogger
+    icon: fab fa-coffee
     url: https://computersciencetalks.blogspot.com
 
 google_analytics: G-CCEMLPTW4V
