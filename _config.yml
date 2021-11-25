@@ -34,7 +34,7 @@ social:
     icon: fa-linkedin
     url: https://www.linkedin.com/in/pedrosacosta
   - title: ORCID
-    icon: fas fa-orcid
+    icon: fas fa-blog
     url: https://orcid.org/0000-0003-0780-8216
   - title: Scholar
     icon: fa-google
