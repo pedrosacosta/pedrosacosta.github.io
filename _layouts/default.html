@@ -5,7 +5,7 @@
 	<body>
 		{% include header.html %}
 
-		{% assign sorted_categories = "About, Professional, Publications, Awards" | split: ", " %}
+		{% assign sorted_categories = "About, Professional, Publications, Links, Awards" | split: ", " %}
 
 		{% for cat in sorted_categories %}
 		{%  capture thecycle %}{% cycle 'content-section-a', 'content-section-b' %}{% endcapture %}
