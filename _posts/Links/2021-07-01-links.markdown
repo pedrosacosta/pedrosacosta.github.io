@@ -10,6 +10,4 @@ description: |
 {% assign arrived_ts = "February 14, 2012" | date: "%s" %}
 {% assign years_since_arriving = now_ts | minus: arrived_ts | divided_by: year_secs %}
 
-- [IEEE Internet-of-Things Journal](https://ieee-iotj.org)
-- Best Student Paper Award in recognition of the paper "Chrysaor: Fine-grained, fault-tolerant cloud-of-clouds.", IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing
-- Award of Excellence in Recognition of Merit of the paper, "Byzantine Fault-Tolerant MapReduce: Faults are not just crashes", IEEE International Conference on Cloud Computing Technology and Science
+[IEEE Internet-of-Things Journal](https://ieee-iotj.org) | [IoT Tech News](https://www.iottechnews.com/) | [Tech News](https://arstechnica.com/) | [ZDNet](http://www.zdnet.com/) | [W3C](http://www.w3c.org/)
