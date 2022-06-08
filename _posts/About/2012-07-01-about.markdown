@@ -18,4 +18,4 @@ He has a strong background in backend and distributed systems, including a Ph.D.
 
 <h3>Research Interests</h3>
 
-His interests are in systems software, dependability in distributed systems in the context of different applications like cloud/edge computing, mobile systems and services, Internet of Things (IoT), networking, fault-tolerance, information and communication systems (ICT), and Internet technologies.
+His interests are in systems software, dependability in distributed systems in the context of different applications like cloud/edge computing, Internet of Things (IoT), networking, Blockchain/Smart Contracts, Digital Twins, Dapps, and Internet technologies.
