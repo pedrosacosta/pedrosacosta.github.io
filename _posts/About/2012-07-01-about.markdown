@@ -12,7 +12,9 @@ description: |
 
 ![Pedro Sá da Costa](img/me.jpg){:class="img-responsive img-circle"}
 
-Pedro Costa (or Pedro A.R.S. Costa, or Pedro Sá da Costa) is a [Senior Researcher](https://www.hslu.ch/en/lucerne-university-of-applied-sciences-and-arts/about-us/people-finder/profile/?pid=4666) in the [IoT Innovation Lab](https://www.hslu.ch/en/lucerne-school-of-information-technology/research/systems-and-software/internet-of-things/) Group. He has solid experience in <span style="background-color: #FFFF00">**industry and academia for 16+ YoE**</span>, attested by contributing to the <span style="background-color: #00FF00">design of several industrial highly-distributed, fault-tolerant and secure telecommunication systems</span> (at Nokia and Nokia Siemens Networks) and <span style="background-color: #00FF00">breakthrough research projects</span>.
+Pedro Costa (or Pedro A.R.S. Costa, or Pedro Sá da Costa) is a [Senior Researcher](https://www.hslu.ch/en/lucerne-university-of-applied-sciences-and-arts/about-us/people-finder/profile/?pid=4666) in the [Mobile and Smart Systems](
+https://www.hslu.ch/en/lucerne-school-of-information-technology/research/systems-and-software/mobile-smart-systems/)
+Research Group. He has solid experience in <span style="background-color: #FFFF00">**industry and academia for 16+ YoE**</span>, attested by contributing to the <span style="background-color: #00FF00">design of several industrial highly-distributed, fault-tolerant and secure telecommunication systems</span> (at Nokia and Nokia Siemens Networks) and <span style="background-color: #00FF00">breakthrough research projects</span>.
 
 He has a strong background in backend and distributed systems, including a Ph.D. in Computer Science at [University of Lisbon](https://ciencias.ulisboa.pt/en/informatics), and he has published several scientific articles in relevant conferences and journals, and won <span style="background-color: #FFFF00">**two best paper awards** and an **award of merit of recognition of the work developed during Ph.D.**</span>.
 
