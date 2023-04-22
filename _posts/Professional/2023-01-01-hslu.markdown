@@ -2,7 +2,7 @@
 layout: default
 category: Professional
 img: hslu.png
-title: IoT Innovation Lab
+title: IoT Mobile and Smart Systems Lab
 description: |
   [Mobile and Smart Systems](https://www.hslu.ch/en/lucerne-school-of-information-technology/research/systems-and-software/mobile-smart-systems/) is a research unit that focuses on developing mobile and intelligent systems.
 
